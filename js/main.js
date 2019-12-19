@@ -11,7 +11,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A web app that is used by Quality Auditors to audit cases.",
             contribution: "Revamped existing project for better UI/UX.",
             color: "#536878",
-            image: "../images/qa.svg"
+            image: "./images/qa.svg"
         },
         {
             id: "2",
@@ -20,7 +20,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A backup for the main tool that was used for processing cases.",
             contribution: "Revamped existing project for better UI/UX.",
             color: "#4D648D",
-            image: "../images/endgame.svg"
+            image: "./images/endgame.svg"
         },
         {
             id: "3",
@@ -29,7 +29,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A chrome extension that optimizes reviewing cases.",
             contribution: "Created new tool",
             color: "#3C2F2F",
-            image: "../images/yey.svg"
+            image: "./images/yey.svg"
         },
         {
             id: "4",
@@ -38,7 +38,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A chrome extension that is used for tracking cases.",
             contribution: "Revamped existing project for better UI/UX.",
             color: "#1E1F26",
-            image: "../images/casestracker.svg"
+            image: "./images/casestracker.svg"
         },
         {
             id: "5",
@@ -47,7 +47,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A chrome extension that scrape and save data from PLX to Google Sheets",
             contribution: "Created new tool",
             color: "#4B3832",
-            image: "../images/bls2tool.svg"
+            image: "./images/bls2tool.svg"
         },
         {
             id: "6",
@@ -56,7 +56,7 @@ let colorArray = ["#051e3e","#251e3e","#451e3e","#651e3e",
             description: "A web app that serves as a processing tool for Focus Analysts",
             contribution: "Created new tool",
             color: "#051E3E",
-            image: "../images/focusanalyst.svg"
+            image: "./images/focusanalyst.svg"
         },
     ];
 
